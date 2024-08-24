@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hey! I'm Jason Cabusao
+
+## About
+
+I am incomming Junior at the University of Washington pusuing a B.S in Informatics (Data Science) and a B.A in Business Administration (Information Systems).   
 
 <!--
 **jasoncabusao/jasoncabusao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
